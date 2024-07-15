@@ -1,0 +1,6 @@
+Python Libraries -
+1.pandas 
+2.flask 
+3.scikit.learn
+4.numpy
+VS code / Jupyter notebook
